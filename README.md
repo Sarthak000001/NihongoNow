@@ -2,11 +2,9 @@
 
 NihongoNow is a high-fidelity, AI-powered language learning platform designed to provide an immersive Japanese conversational experience. Connect with unique AI Senseis, practice speaking in real-time, and master the language through authentic dialogue.
 
-![NihongoNow Header](public/previews/home.png)
-
 ## 📸 Preview
-
-<p align="center">
+![NihongoNow Header](public/previews/home.png)
+<p>
   <img src="public/previews/home.png" width="45%" />
   <img src="public/previews/Feature.png" width="45%" />
    <img src="public/previews/Footer.png" width="45%" />
