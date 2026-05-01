@@ -16,7 +16,7 @@ NihongoNow is a high-fidelity, AI-powered language learning platform designed to
 ![NihongoNow Header](public/previews/home.png)
 ![NihongoNow Header](public/previews/Feature.png)
 ![NihongoNow Header](public/previews/Footer.png)
-![NihongoNow Header](public/previews/Footer.png)
+![NihongoNow Header](public/previews/characters.png)
 ![NihongoNow Header](public/previews/scenarios.png)
 ![NihongoNow Header](public/previews/chat.png)
 
