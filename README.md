@@ -13,11 +13,16 @@ NihongoNow is a high-fidelity, AI-powered language learning platform designed to
 - **Scenario-Based Learning:** Practice in real-world situations like cafes, airports, or traditional tea ceremonies.
 
 ## 📸 Preview
+**Home**
 ![NihongoNow Header](public/previews/home.png)
+**Features**
 ![NihongoNow Header](public/previews/Feature.png)
 ![NihongoNow Header](public/previews/Footer.png)
+**characters**
 ![NihongoNow Header](public/previews/characters.png)
+**scenarios**
 ![NihongoNow Header](public/previews/scenarios.png)
+**chat**
 ![NihongoNow Header](public/previews/chat.png)
 
 ## 🛠️ Tech Stack
