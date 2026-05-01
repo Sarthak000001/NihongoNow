@@ -2,16 +2,6 @@
 
 NihongoNow is a high-fidelity, AI-powered language learning platform designed to provide an immersive Japanese conversational experience. Connect with unique AI Senseis, practice speaking in real-time, and master the language through authentic dialogue.
 
-## 📸 Preview
-![NihongoNow Header](public/previews/home.png)
-<p>
-  <img src="public/previews/home.png" width="45%" />
-  <img src="public/previews/Feature.png" width="45%" />
-   <img src="public/previews/Footer.png" width="45%" />
-  <img src="public/previews/characters.png" width="45%" />
-   <img src="public/previews/scenarios.png" width="45%" />
-  <img src="public/previews/chat.png" width="45%" />
-</p>
 
 ## 💎 Features
 
@@ -21,6 +11,14 @@ NihongoNow is a high-fidelity, AI-powered language learning platform designed to
 - **🎤 Voice-to-Text Integration:** Speak naturally using the built-in microphone support, optimized for Japanese and English recognition.
 - **🔊 Smart Text-to-Speech:** Native-sounding Japanese audio responses with intelligent masculine/feminine voice fallbacks.
 - **Scenario-Based Learning:** Practice in real-world situations like cafes, airports, or traditional tea ceremonies.
+
+## 📸 Preview
+![NihongoNow Header](public/previews/home.png)
+![NihongoNow Header](public/previews/Feature.png)
+![NihongoNow Header](public/previews/Footer.png)
+![NihongoNow Header](public/previews/Footer.png)
+![NihongoNow Header](public/previews/scenarios.png)
+![NihongoNow Header](public/previews/chat.png)
 
 ## 🛠️ Tech Stack
 
